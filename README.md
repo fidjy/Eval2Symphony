@@ -32,3 +32,4 @@
     - php bin/console make:controler brand new controler
 
     ## Décrivez succintement l'outil Flex de Symfony
+    - outil Symfony qui permet d'ajouter des nouvelles briques en déployant le moins d'effort possible.
